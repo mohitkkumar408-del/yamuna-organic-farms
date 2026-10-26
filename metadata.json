@@ -1,0 +1,8 @@
+{
+  "name": "Yamuna Organic Farms - Mushroom Management",
+  "description": "Comprehensive business management system for Yamuna Organic Farms in Dhanbad: Oyster mushroom cultivation batch yield, inventory FIFO, wholesale/retail orders, CRM, supplier payables, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
